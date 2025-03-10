@@ -10,9 +10,9 @@ TELA_LARGURA = 500
 TELA_ALTURA = 800
 VELOCIDADE_JOGO = 5
 # Carregar fontes
-FONTE_PONTOS = pygame.font.Font('sourgummy.ttf', 50)  # Carregar fonte personalizada
-FONTE_REINICIAR = pygame.font.Font('flappybirdy.ttf', 40)  # Carregar fonte personalizada
-FONTE_GET_READY = pygame.font.Font('flappybirdy.ttf', 60)  # Carregar fonte personalizada
+FONTE_PONTOS = pygame.font.Font('./fonts/sourgummy.ttf', 50)  # Carregar fonte personalizada
+FONTE_REINICIAR = pygame.font.Font('./fonts/flappybirdy.ttf', 40)  # Carregar fonte personalizada
+FONTE_GET_READY = pygame.font.Font('./fonts/flappybirdy.ttf', 60)  # Carregar fonte personalizada
 
 # ... (resto do seu código)
 
