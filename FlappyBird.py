@@ -14,7 +14,6 @@ FONTE_PONTOS = pygame.font.Font('./fonts/sourgummy.ttf', 50)  # Carregar fonte p
 FONTE_REINICIAR = pygame.font.Font('./fonts/flappybirdy.ttf', 40)  # Carregar fonte personalizada
 FONTE_GET_READY = pygame.font.Font('./fonts/flappybirdy.ttf', 60)  # Carregar fonte personalizada
 
-# ... (resto do seu código)
 
 # Carregar imagens
 def carregar_imagem(nome):
